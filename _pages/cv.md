@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Network Engineer, Guangxi University, 2015
+* M.S. in Computer Science, Florida State University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2022: Teaching Assistant
+* Virginia Tech 
+  * Duties included: Held weekly office hours to help students with homework and project
+    assignments. Graded homework, projects, midterms, and finals.
+2021: Software Engineer II
+* Diverse Computing Inc.
+  * Duties included: Design and develop Software applications for the Law Enforcement/Public Safety
+    industry.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+2019: Software Engineer
+* Diverse Computing Inc.
+  * Duties included: Developed the base phase and enhanced phase of an application for the Law
+    Enforcement/Public Safety industry.
+
+2018: Teaching Assistant
+* Florida State University
+  * Duties included: Held weekly office hours to help students with homework and project
+    assignments. Graded homework, projects, midterms, and finals.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Java Programming
+* JavaScript Programming
+* React Js Framework
+* Spring Framework
+* Mandarin, Native Speaker
+* English, Proficient
