@@ -21,5 +21,4 @@ and Angular to update the legacy project to improve the performance and user exp
 application website. I also was exposed to business process management and software development
 methodologies, such as scrum and agile process. Besides, I also worked on legacy projects that uses
 CSS framework and JQuery frameworks for front-end. These working experience helps me not only
-familiar with modern technologies for web application development, but also had better understand-
-ing on the history of the technologies changes and how fast nowadays technologies evolves.
+familiar with modern technologies for web application development, but also had better understanding on the history of the technologies changes and how fast nowadays technologies evolves.
