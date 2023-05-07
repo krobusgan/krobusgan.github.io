@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Network Engineer, Guangxi University, 2015
-* M.S. in Computer Science, Florida State University, 2014
+* B.S. in Network Engineer, Guangxi University, 2017
+* M.S. in Computer Science, Florida State University, 2018
 
 Work experience
 ======
@@ -20,6 +20,7 @@ Work experience
 * Virginia Tech 
   * Duties included: Held weekly office hours to help students with homework and project
     assignments. Graded homework, projects, midterms, and finals.
+
 2021: Software Engineer II
 * Diverse Computing Inc.
   * Duties included: Design and develop Software applications for the Law Enforcement/Public Safety
