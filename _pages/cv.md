@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Downloadable CV](/files/CV.pdf)
+
 Education
 ======
 * B.S. in Network Engineer, Guangxi University, 2017
