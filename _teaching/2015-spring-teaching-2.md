@@ -1,8 +1,8 @@
 ---
-title: "Teaching Assistant 2017.08-2018.05"
+title: "Teaching Assistant: 2017.08-2018.05"
 collection: teaching
 type: "Courses: Web Application development and Data Structures"
-permalink: /teaching/2014-spring-teaching-1
+#permalink: /teaching/2014-spring-teaching-1
 venue: "Virgina Tech, Computer Science"
 date: 2018-01-01
 location: "Tallahassee, Florida"

@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-2022: Teaching Assistant
+2022 - Current: Teaching Assistant
 * Virginia Tech 
   * Duties included: Held weekly office hours to help students with homework and project
     assignments. Graded homework, projects, midterms, and finals.
