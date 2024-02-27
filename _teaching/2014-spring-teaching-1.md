@@ -1,6 +1,6 @@
 ---
 title: "Teaching Assistant: 2022.08-Current"
-collection: teaching
+#collection: teaching
 type: "Courses: Software Engineering and Intermediate Software Engineering"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Virgina Tech, Computer Science"
