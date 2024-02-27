@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant 2017.08-2018.05"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Courses: Web Application development and Data Structures"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Virgina Tech, Computer Science"
+date: 2018-01-01
+location: "Tallahssee, Florida"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Duties included: Teaching assistant for class data structure and algorithm  and class Introduction of Web Application. Held weekly office hours to help students with homework and project assignments. Graded homework, projects, midterms, and finals.

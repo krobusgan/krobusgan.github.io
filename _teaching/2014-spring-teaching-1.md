@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant 2022.08-Current"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course: intermediate software engineering"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Virgina Tech, Computer Science"
 date: 2014-01-01
-location: "City, Country"
+location: "Blacksburg, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Duties included: Teaching assistant for class software engineering and class intermediate software engineering. Assisted students during class activities such as workshop to set up environment. Held weekly office hours to help students with homework and project assignments. Graded homework, projects, midterms, and finals.
