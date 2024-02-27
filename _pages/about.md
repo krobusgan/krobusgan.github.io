@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xiaoxiao Gan, I am a first year PhD student in Virginia Tech. I am interested in software engineering, particularly in automated testing, code quality improvement, software maintenance and evolution. My goal is to strengthen my skills for research in the field of software engineering to improve productivity by developing automated tools that support developers’ work.
+My name is Xiaoxiao Gan, I am a second year PhD student in Virginia Tech. I am interested in software engineering, particularly in automated testing, code quality improvement, software maintenance and evolution. My goal is to strengthen my skills for research in the field of software engineering to improve productivity by developing automated tools that support developers’ work.
 
 I was born in southern China and completed my basic education
 there. Before I came to Virginia Tech, I gained my fundamental knowledge in Computer Science in Guangxi University for my
